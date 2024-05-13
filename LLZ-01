@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html>
   <head>
     <title>www文档</title>
     <style>  
@@ -9,7 +9,6 @@
     </style>
   </head>
   <body>
-	  
-    <p>1234455815125512</p>
+<p>1234455815125512</p>
   </body>
 </html>
